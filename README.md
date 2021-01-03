@@ -1,2 +1,2 @@
 # Tableau-Projects
-These are dynamic tableau projects that help turn the data into useful information.
+These are dynamic tableau projects that help transform the data into useful information.
