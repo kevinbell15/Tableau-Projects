@@ -1,6 +1,7 @@
 # Tableau-Projects
 These are dynamic tableau projects that help transform the data into useful information.
 
+Map regional sales: Ths dashboard can be used to show the profitability of each region. In order to do the profitability ratio I created a calculated field by dividing profit by sales. I filtered each graph by region in order to show the differences between the two regions. I also created a line chart that shows the profit and sales by year for each region. The chart also predicts the future profit and sales for the year 2014 and 2015. Based off the graph the southern region is projected to have more growth in the coming years than the eastern region. 
 
 Telecommunications: The dashboard shows the percentage of calls each call tower drops. The horizontal bar chart shows that the clown castle call tower drops the most calls overall. The highlight table shows that there seems to be some problems with the GLU call tower. They seem to drop almost all of their calls at 6am and 10pm. This is an issue that the telecommunications company should focus on fixing by increasing the bandwidth at those hours. 
 
